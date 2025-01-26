@@ -71,4 +71,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ```
 
 Make sure to replace `<repository-url>` and `<repository-directory>` with the actual URL and directory name of your repository.
-Make sure to replace `<repository-url>` and `<repository-directory>` with the actual URL and directory name of your repository.
